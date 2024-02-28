@@ -1,0 +1,24 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8êÃ‚ÔŞ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Çµí‘8×Ä‚ÔŞ1
+L	java:S106"+Replace this use of System.out by a logger.(Îù¹áüÿÿÿÿ8ÙÄ‚ÔŞ1
+L	java:S106"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8ÛÄ‚ÔŞ1
+G	java:S106"+Replace this use of System.out by a logger.(ŒÒ›Ğ8ÛÄ‚ÔŞ1
+m	java:S128X"LEnd this switch case with an unconditional break, return or throw statement.(Í¯ÏŠÿÿÿÿÿ8ÛÄ‚ÔŞ1
+G	java:S106""+Replace this use of System.out by a logger.(—ÿ´8ÜÄ‚ÔŞ1
+G	java:S106$"+Replace this use of System.out by a logger.(Ú§¸š8ÜÄ‚ÔŞ1
+G	java:S106("+Replace this use of System.out by a logger.(êÅÒÍ8ÜÄ‚ÔŞ1
+G	java:S106+"+Replace this use of System.out by a logger.(å”ª8ÜÄ‚ÔŞ1
+L	java:S106-"+Replace this use of System.out by a logger.(ìºşúıÿÿÿÿ8ÜÄ‚ÔŞ1
+G	java:S1062"+Replace this use of System.out by a logger.(‚¶Ğ®8İÄ‚ÔŞ1
+L	java:S1064"+Replace this use of System.out by a logger.(ú—î¤úÿÿÿÿ8İÄ‚ÔŞ1
+L	java:S1069"+Replace this use of System.out by a logger.(”ë¾ªıÿÿÿÿ8İÄ‚ÔŞ1
+L	java:S106;"+Replace this use of System.out by a logger.(ú—î¤úÿÿÿÿ8İÄ‚ÔŞ1
+G	java:S106@"+Replace this use of System.out by a logger.(œíàï8İÄ‚ÔŞ1
+L	java:S106B"+Replace this use of System.out by a logger.(ìºşúıÿÿÿÿ8İÄ‚ÔŞ1
+G	java:S106Q"+Replace this use of System.out by a logger.(ÑÀ¯Í8ŞÄ‚ÔŞ1
+`
+java:S1155Y">Use isEmpty() to check whether the collection is empty or not.(£ø¢øÿÿÿÿ8ŞÄ‚ÔŞ1
+G	java:S106Z"+Replace this use of System.out by a logger.(¨ëøü8ŞÄ‚ÔŞ1
+L	java:S106_"+Replace this use of System.out by a logger.(âË¶ÿÿÿÿÿ8ßÄ‚ÔŞ1
