@@ -22,3 +22,4 @@ G	java:S106Q"+Replace this use of System.out by a logger.(ÑÀ¯Í8ŞÄ‚ÔŞ1
 java:S1155Y">Use isEmpty() to check whether the collection is empty or not.(£ø¢øÿÿÿÿ8ŞÄ‚ÔŞ1
 G	java:S106Z"+Replace this use of System.out by a logger.(¨ëøü8ŞÄ‚ÔŞ1
 L	java:S106_"+Replace this use of System.out by a logger.(âË¶ÿÿÿÿÿ8ßÄ‚ÔŞ1
+L	java:S106e"+Replace this use of System.out by a logger.(»¿‡Ñıÿÿÿÿ8ì½ÔôŞ1

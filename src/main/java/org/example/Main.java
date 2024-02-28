@@ -98,7 +98,9 @@ public class Main {
 
                 case EXIT:
                     scanner.close();
+                    System.out.println("Выход");
                     System.exit(0);
+
             }
 
 
